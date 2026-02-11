@@ -1,53 +1,49 @@
-🧘 Yoga Center Management
-🌐 Web Project
+# 🧘 Yoga Center Management System  
+### 🌐 Web-Based Management Project
 
-A web-based application designed to manage the daily operations of a yoga center efficiently.
-This system helps administrators manage members, trainers, classes, schedules, and payments in a simple and organized way.
+A web application developed to efficiently manage the daily operations of a yoga center.  
+The system helps automate member registration, trainer management, class scheduling, attendance tracking, and payment monitoring.
 
-📌 Project Description
+---
 
-The Yoga Center Management System is developed to digitalize yoga center operations and reduce manual paperwork.
-It provides an easy-to-use interface for managing registrations, class schedules, attendance, and payments.
+## 📌 Project Overview
 
-🚀 Key Features
-🔐 Admin Module
+The **Yoga Center Management System** is designed to reduce manual paperwork and improve administrative efficiency.  
+It provides a centralized platform where admins, trainers, and members can manage and access relevant information easily.
 
-Add, update, and delete members
+---
 
-Manage trainers
+## 🚀 Features
 
-Create and schedule yoga classes
+### 🔐 Admin Panel
+- Add, update, delete members
+- Manage trainers
+- Create and schedule yoga classes
+- Track attendance records
+- Manage membership payments
+- View dashboard statistics
 
-Track attendance
+### 👤 Member Module
+- Member registration
+- View class schedules
+- Check membership details
+- Track attendance history
 
-Monitor payments
+### 👩‍🏫 Trainer Module
+- View assigned classes
+- Manage attendance
+- Access member lists
 
-Dashboard overview
+---
 
-👤 Member Module
+## 🛠️ Technologies Used
 
-Member registration
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP / Apache  
 
-View class schedule
+---
 
-Check membership status
+## 📂 Project Structure
 
-Track attendance history
-
-👩‍🏫 Trainer Module
-
-View assigned classes
-
-Manage attendance
-
-Access member lists
-
-🛠️ Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Server: XAMPP / Apache
